@@ -56,7 +56,7 @@ python ea_maximal_parameter_screen.py --table-ii-extra
 
 ## Sources
 
-1. X. Lai and A. Ashikhmin, [arXiv:1602.00413](https://arxiv.org/abs/1602.00413), Table II.
+1. C.-Y. Lai and A. Ashikhmin, [arXiv:1602.00413](https://arxiv.org/abs/1602.00413), Table II.
 2. Y. Liu and R. Li, [*On the largest minimum distances of [n,6] LCD codes*](https://arxiv.org/abs/2406.02065), especially Corollary 1 and Theorem 20.
 3. L. Lu, R. Li, and Y. Ren, [*Optimal Quaternary Hermitian LCD Codes*](https://doi.org/10.3390/e26050373), which supplies the three GF(4) LCD matrices checked here.
 4. J. Bierbrauer, S. Marcugini, and F. Pambianco, [*New results for additive quaternary codes*](https://arxiv.org/abs/1804.02468), for the classifications used in the first and third exclusions.
